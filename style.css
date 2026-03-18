@@ -83,10 +83,6 @@ body {
     background-color: gray;
 }
 
-.information-bg {
-    background-color: gainsboro;
-}
-
 .information {
     max-width: 750px;
     margin: 0 auto;
